@@ -1,0 +1,4 @@
+repository "samples_proto@moonloops@cloud"
+  path "/"
+    smartbranch "/main/demos"         
+     
